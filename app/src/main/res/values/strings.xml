@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Test Navigation</string>
+    <string name="add_button">Add Button</string>
+    <string name="search_icon">Search Task</string>
+    <string name="sort_priority">Sort By Priority</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_leading_icon">Search Icon</string>
+    <string name="close_icon">Close Search</string>
+    <string name="empty_icon">Empty Icon</string>
+    <string name="empty_list_msg">No Tasks Found!</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="add_task_txt">Add Task</string>
+    <string name="add_task_icon">Add Task</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="drop_down_arrow">Drop-Down Arrow Icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_task">Remove \'%1$s\'?</string>
+    <string name="delete_task_confirmation">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="to_do_logo">Logo</string>
+    <string name="priority_selected">Priority Selected</string>
+
+</resources>
